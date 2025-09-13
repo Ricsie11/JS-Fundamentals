@@ -10,4 +10,4 @@ function factorial(n) {
 }
 
 console.log(factorial(args1))
-console.log(factorial(args2))
+// console.log(factorial(args2))
