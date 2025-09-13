@@ -1,3 +1,7 @@
-const args = process.argv[0];
+const args = process.argv[2];
 
-console.log(args)
+if (args === undefined) {
+    console.log("No arguments")    
+} else {
+    console.log(args)
+}
