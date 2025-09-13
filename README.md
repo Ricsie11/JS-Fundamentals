@@ -1,0 +1,1 @@
+This repository contains JavaScript code examples that demonstrate fundamental concepts such as variables, functions, loops, and objects. Each code snippet is designed to help you understand and practice essential programming techniques in JavaScript.
